@@ -1,16 +1,35 @@
-## Hi there 👋
+Cybersecurity Student | Network Security | Security Research | Developer
 
-<!--
-**braggyJz/braggyJz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cybersecurity student at Ain Shams University** with a strong interest in **Network Security, Application Security, and Defensive Security**.
 
-Here are some ideas to get you started:
+I enjoy understanding how systems work, finding where they can fail, and building practical security solutions around those weaknesses.
+Currently, I'm focusing on becoming a **Network Security Engineer** while continuing to explore offensive security, digital forensics, Android security, and AI-powered cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+* 🎓 Cybersecurity student at **Ain Shams University**
+* 🔐 Interested in **Network Security & Cyber Defense**
+* 🕵️ Experience with **Web & Mobile Application Security**
+* 🧪 Enjoy building security labs and vulnerable environments
+* 🐧 Linux enthusiast
+* 🎯 Currently working toward becoming a **Network Security Engineer**
+
+🧪 Security Projects
+
+Some of the areas and projects I've worked on include:
+
+**🔹 Cyber Awareness Platform**
+A web application designed around cybersecurity awareness and controlled user access.
+
+**🔹 Vulnerability Labs**
+Hands-on vulnerable environments covering database and web vulnerabilities, including PostgreSQL, MongoDB, SQL injection, and NoSQL injection.
+
+**🔹 Android Security Labs**
+APK analysis, Smali patching, client-side security bypasses, IDOR testing, ADB, and traffic interception.
+
+**🔹 AI-Assisted SOC**
+Exploring an AI-powered SOC architecture capable of ingesting alerts, triaging incidents, summarizing findings, and assisting with response.
+
+
+
+

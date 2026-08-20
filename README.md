@@ -1,5 +1,4 @@
-Cybersecurity Student | Network Security | Security Research | Developer
-
+Cybersecurity Student | Network Security | Security Research 
 I'm a **Cybersecurity student at Ain Shams University** with a strong interest in **Network Security, Application Security, and Defensive Security**.
 
 I enjoy understanding how systems work, finding where they can fail, and building practical security solutions around those weaknesses.
@@ -15,7 +14,6 @@ About Me
 * 🎯 Currently working toward becoming a **Network Security Engineer**
 
 🧪 Security Projects
-
 Some of the areas and projects I've worked on include:
 
 **🔹 Cyber Awareness Platform**
@@ -23,9 +21,6 @@ A web application designed around cybersecurity awareness and controlled user ac
 
 **🔹 Vulnerability Labs**
 Hands-on vulnerable environments covering database and web vulnerabilities, including PostgreSQL, MongoDB, SQL injection, and NoSQL injection.
-
-**🔹 Android Security Labs**
-APK analysis, Smali patching, client-side security bypasses, IDOR testing, ADB, and traffic interception.
 
 **🔹 AI-Assisted SOC**
 Exploring an AI-powered SOC architecture capable of ingesting alerts, triaging incidents, summarizing findings, and assisting with response.

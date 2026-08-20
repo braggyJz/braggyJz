@@ -6,14 +6,14 @@ Currently, I'm focusing on becoming a **Network Security Engineer** while contin
 
 About Me
 
-* 🎓 Cybersecurity student at **Ain Shams University**
-* 🔐 Interested in **Network Security & Cyber Defense**
-* 🕵️ Experience with **Web & Mobile Application Security**
-* 🧪 Enjoy building security labs and vulnerable environments
-* 🐧 Linux enthusiast
-* 🎯 Currently working toward becoming a **Network Security Engineer**
+*  Cybersecurity student at **Ain Shams University**
+*  Interested in **Network Security & Cyber Defense**
+*  Experience with **Web & Mobile Application Security**
+*  Enjoy building security labs and vulnerable environments
+*  Linux enthusiast
+*  Currently working toward becoming a **Network Security Engineer**
 
-🧪 Security Projects
+Security Projects
 Some of the areas and projects I've worked on include:
 
 **🔹 Cyber Awareness Platform**

@@ -11,7 +11,6 @@ About Me
 *  Experience with **Web & Mobile Application Security**
 *  Enjoy building security labs and vulnerable environments
 *  Linux enthusiast
-*  Currently working toward becoming a **Network Security Engineer**
 
 Security Projects
 Some of the areas and projects I've worked on include:
